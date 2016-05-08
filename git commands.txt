@@ -19,3 +19,8 @@ git reset --hard HEAD~1
 git checkout (commit hash pl. 2d9a1b4ce089bc497f1278c44ac7891b8a5a07e1)
 git checkout master
 git branch /name/
+
+git stash (biztos helyre tesszük)
+git stash pop (kivesszük a biztos helyről)
+git stash drop (kitöröljük a biztos helyről)
+git pull
