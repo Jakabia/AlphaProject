@@ -1,3 +1,4 @@
 cd /c
 mkdir workspaces
 cd workspaces
+bármi után & -> párhuzamosan van
