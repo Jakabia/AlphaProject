@@ -12,7 +12,7 @@ git commit --amend
 git commit --amend -m "New Name"
 git push -f
 
-gitk --all
+gitk --all (&)
 git branch
 git reset --hard HEAD~1
 
