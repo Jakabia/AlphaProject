@@ -1,0 +1,3 @@
+cd /c
+mkdir workspaces
+cd workspaces

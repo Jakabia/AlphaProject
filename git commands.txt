@@ -1,0 +1,9 @@
+//git clone https://github.com/Jakabia/AlphaProject.git
+git status
+git gui
+//git config --global user.email "you@example.com"
+//git config --global user.name "Your Name"
+git add -A
+git commit -m "commit neve"
+git log
+git push
